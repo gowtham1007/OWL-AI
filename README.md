@@ -1,3 +1,13 @@
+
+🔗 Project Links
+
+Live Demo: https://owl-ai-3061.onrender.com/
+
+GitHub Repository: https://github.com/gowtham1007/OWL-AI/
+
+LinkedIn Profile: https://www.linkedin.com/in/gowtham1008/
+
+
 Built using React.js for dynamic and scalable front-end development.
 
 Styled with Tailwind CSS and Bootstrap to achieve a modern, clean design.
@@ -28,13 +38,7 @@ Combines performance, flexibility, and functionality in one app.
 
 A showcase of modern web development practices with React, Tailwind, and Bootstrap.
 
-🔗 Project Links
 
-Live Demo: [Your Project URL here]
-
-GitHub Repository: [Repo URL here]
-
-LinkedIn Profile: [Your LinkedIn ID / Profile link here]
 
 
 
