@@ -62,3 +62,4 @@ If you are developing a production application, we recommend using TypeScript wi
 "# ragnexus" 
 "# ragnexus" 
 "# ragnexus" 
+"# rag-nexus" 
